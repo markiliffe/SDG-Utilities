@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="sdg-utilities",
+    name="sdg_utilities",
     version="0.0.1",
     author="UNSD",
     author_email="mark.iliffe@un.org",
