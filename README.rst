@@ -1,6 +1,10 @@
 # SDG-Utilities
 A library that provides a set of utilities for managing and analysing SDG data. 
 
-Install with
+##Install
 
-pip install sdg-utilities
+`pip install sdg-utilities`
+
+##Pip Packages
+
+`https://pypi.org/project/sdg-utilities/`
