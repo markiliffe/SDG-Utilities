@@ -12,5 +12,5 @@ This library is available on PyPi:
 ## Contact
 
 Project Contributors:
-- Luis Gonzalex Morales
+- Luis Gonzalez Morales
 - Mark Iliffe
