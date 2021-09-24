@@ -370,5 +370,3 @@ def year_intervals(years_list):
 
     x = ",".join(interval_yy)
     return(x)
-
-print("Utils loaded")
